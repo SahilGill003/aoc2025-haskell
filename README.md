@@ -33,20 +33,20 @@ cabal exec aoc2025 day2
 
 ## Solutions
 
-| Day  | Title | Status |
-|----- |-------|--------|
-| Day 1  | | ✅ Solved |
-| Day 2  | | ✅ Solved |
-| Day 3  | | ✅ Solved |
-| Day 4  | | ✅ Solved |
-| Day 5  | | ✅ Solved |
-| Day 6  | | ✅ Solved |
-| Day 7  | | ✅ Solved |
-| Day 8  | | ✅ Solved |
-| Day 9  | | ✅ Solved |
-| Day 10 | | ❌ Solved |
-| Day 11 | | ✅ Not solved |
-| Day 12 | | ❌ Not solved |
+| Day  | Status |
+|----- |--------|
+| Day 1  | ✅ Solved |
+| Day 2  | ✅ Solved |
+| Day 3  | ✅ Solved |
+| Day 4  | ✅ Solved |
+| Day 5  | ✅ Solved |
+| Day 6  | ✅ Solved |
+| Day 7  | ✅ Solved |
+| Day 8  | ✅ Solved |
+| Day 9  | ✅ Solved |
+| Day 10 | ❌ Solved |
+| Day 11 | ✅ Not solved |
+| Day 12 | ❌ Not solved |
 
 > 10 / 12 solved
 
