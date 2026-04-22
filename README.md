@@ -44,8 +44,8 @@ cabal exec aoc2025 day2
 | Day 7  | ✅ Solved |
 | Day 8  | ✅ Solved |
 | Day 9  | ✅ Solved |
-| Day 10 | ❌ Solved |
-| Day 11 | ✅ Not solved |
+| Day 10 | ❌ Not Solved |
+| Day 11 | ✅ Solved |
 | Day 12 | ❌ Not solved |
 
 > 10 / 12 solved
